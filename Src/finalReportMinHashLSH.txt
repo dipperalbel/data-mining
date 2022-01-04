@@ -1,0 +1,45 @@
+Customer profiling based on cosine similarity score
+Max number of recipes per profile: 4
+
+
+
+Customer Profile 1
+We have customers who plan to make the following recipes :
+1) whole milk, lime (Avg.Score: 0.4459092881944444)
+2) lemon, salt, whole milk (Avg.Score: 0.3907630300353357)
+3) guin beer, ice cream, irish whiskey (Avg.Score: 0.13208358253588517)
+4) mexican beer, gin, fresh lemon juic (Avg.Score: 0.12494212962962963)
+
+
+
+
+Customer Profile 2
+We have customers who plan to make the following recipes :
+1) ale, guin beer (Avg.Score: 0.22800557324840764)
+2) can tomato, velveeta, green chili (Avg.Score: 0.1395168439716312)
+3) crescent roll, nutella (Avg.Score: 0.26939786585365855)
+4) gelato, roll, bittersweet chocol (Avg.Score: 0.24192154255319148)
+
+
+
+
+Customer Profile 3
+We have customers who plan to make the following recipes :
+1) cinnamon roll, sugar (Avg.Score: 0.2786458333333333)
+2) roll, almond, preserv (Avg.Score: 0.26729910714285715)
+3) parsnip, whip cream, whole milk (Avg.Score: 0.3746219758064516)
+4) sweeten condens milk, peach, soda (Avg.Score: 0.21544642857142857)
+
+
+
+
+Customer Profile 4
+We have customers who plan to make the following recipes :
+1) vanilla, oil, whole milk, cream chees, roll, sour cream, whip cream, condens milk (Avg.Score: 0.30009765625)
+2) sangria, orang, club soda (Avg.Score: 0.2697585978835979)
+3) club soda, campari, orang (Avg.Score: 0.23076228323699421)
+4) vanilla extract, egg, white sugar, whole milk (Avg.Score: 0.2867240646258503)
+
+
+
+

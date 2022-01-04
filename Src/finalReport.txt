@@ -1,0 +1,45 @@
+Customer profiling based on cosine similarity score
+Max number of recipes per profile: 4
+
+
+
+Customer Profile 1
+We have customers who plan to make the following recipes :
+1) butter, yeast, purpos flour, salt, sugar, beer (Avg.Score: 0.6101406967573048)
+2) milk, purpos flour, cook oil, salt, larg egg, beer (Avg.Score: 0.613806976012385)
+3) ground black pepper, garlic, dri thyme, butter, carrot, can low sodium chicken broth, bake potato, salt, veget, heavi cream, onion (Avg.Score: 0.5515347423961969)
+4) soy sauc, green onion, long grain rice, chuck roast, veget oil, water, sesam oil, toast sesam seed, lettuc leav, beer (Avg.Score: 0.5227788362144279)
+
+
+
+
+Customer Profile 2
+We have customers who plan to make the following recipes :
+1) water, coconut, sugar, salt, fruit, rice flour (Avg.Score: 0.6193049272802615)
+2) vanilla, oil, whole milk, cream chees, roll, sour cream, whip cream, condens milk (Avg.Score: 0.5164836594073257)
+3) milk, purpos flour, cook oil, salt, larg egg, beer (Avg.Score: 0.5243538000384562)
+4) marmit, onion, chees, bun, toast (Avg.Score: 0.48745347990869076)
+
+
+
+
+Customer Profile 3
+We have customers who plan to make the following recipes :
+1) vanilla, oil, whole milk, cream chees, roll, sour cream, whip cream, condens milk (Avg.Score: 0.5374519818510719)
+2) water, coconut, sugar, salt, fruit, rice flour (Avg.Score: 0.5903719551567298)
+3) buttermilk, whole wheat flour, bread flour, roll oat, salt, bake soda (Avg.Score: 0.5203838791556067)
+4) milk, sugar, butter, fruit, self rise flour (Avg.Score: 0.5572245696378347)
+
+
+
+
+Customer Profile 4
+We have customers who plan to make the following recipes :
+1) light soy sauc, rice wine, white sugar, pork, ground black pepper, salt, bun, fresh ginger root, veget oil, water, green onion, shrimp (Avg.Score: 0.5728218439904657)
+2) larg egg yolk, vanilla bean, whip cream, tropic fruit, sugar, peel fresh ginger (Avg.Score: 0.5460890980651679)
+3) water, coconut, sugar, salt, fruit, rice flour (Avg.Score: 0.5224390306396149)
+4) lime zest, lime leav, lemon zest, lemongrass, soda water (Avg.Score: 0.6144757800969906)
+
+
+
+
